@@ -1,6 +1,6 @@
-# Web Development Project 4 - *Name of App Here*
+# Web Development Project 4 - *Dog Discoverer*
 
-Submitted by: **Your Name Here**
+Submitted by: **Mohamed Mudawi**
 
 This web app: **insert description**
 
