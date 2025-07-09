@@ -44,10 +44,10 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://i.imgur.com/k0WyDWZ.gif
+(https://i.imgur.com/k0WyDWZ.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LiceCap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -57,9 +57,11 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+While building the app, calling the API, and working with the JSON file that was brought in was really difficult and foriegn to me. 
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Mohamed Mudawi]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
